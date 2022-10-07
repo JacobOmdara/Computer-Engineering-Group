@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WinWorld
+comment0.text=\r\n\ when\ the\ user\ wins,\ redirected\ to\ this\ screen\r\n
+comment1.params=width\ height\ score
+comment1.target=WinWorld(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WinWorld,\ takes\ in\ same\ parameters\ as\ lose\ world\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ userInput()
+numComments=4

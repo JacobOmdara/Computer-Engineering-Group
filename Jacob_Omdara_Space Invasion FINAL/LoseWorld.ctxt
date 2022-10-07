@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LoseWorld
+comment0.text=\r\n\ is\ when\ the\ user\ loses,\ redirected\ to\ this\ screen\r\n\r\n
+comment1.params=width\ height\ score
+comment1.target=LoseWorld(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LoseWorld,\ takes\ in\ width,\ height,\ score\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ userInput()
+numComments=4

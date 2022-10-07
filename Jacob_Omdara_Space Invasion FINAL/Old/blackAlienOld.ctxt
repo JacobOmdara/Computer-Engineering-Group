@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=blackAlien
+comment0.text=\r\n\ It\ is\ the\ main\ alien\ that\ appears\ in\ the\ game,\ it\ is\ the\ main\ enemy\ and\ the\ objective\ is\ to\ destroy\ all\ aliens\r\n\ \r\n
+comment1.params=x\ y\ speed\ alienSpacing\ Army\ myRow\ userShip\ hp\ bulletSpeed\ chances
+comment1.target=blackAlien(int,\ int,\ int,\ int,\ blackAlien[][],\ int,\ ship,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ shootChecker()
+comment4.params=
+comment4.target=boolean\ shoot()
+comment5.params=
+comment5.target=void\ isAtBoundary()
+comment6.params=
+comment6.target=void\ move()
+comment7.params=
+comment7.target=void\ changeDirection()
+comment8.params=
+comment8.target=int\ getPoint()
+numComments=9

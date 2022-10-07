@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LevelOneWorld
+comment0.text=\ This\ is\ the\ first\ level\ world,\ it\ is\ the\ first\ wave\ that\ players\ will\ fight\ in\ the\ game.\ \r\n\ \r\n
+comment1.params=width\ height
+comment1.target=LevelOneWorld(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LevelOneWorld.\r\n\ Takes\ in\ width\ and\ the\ height\ from\ the\ welcomeworld\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ setup()
+comment4.params=
+comment4.target=int\ getScore()
+comment5.params=newScore
+comment5.target=void\ setScore(int)
+comment6.params=
+comment6.target=void\ musicStop()
+comment7.params=
+comment7.target=void\ musicPlay()
+numComments=8

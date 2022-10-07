@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=InstructionWorld
+comment0.text=\r\n\ for\ Instructions,\ teach\ players\ how\ to\ play\ the\ game\r\n\ \r\n
+comment1.params=width\ height
+comment1.target=InstructionWorld(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InstructionWorld,\ has\ width\ and\ height\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ userInput()
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LevelThreeWorld
+comment0.text=\r\n\ This\ is\ the\ third\ world,\ it\ is\ the\ last\ wave\ that\ players\ will\ fight\ in\ the\ game.\ \r\n\ \r\n
+comment1.params=width\ height\ score
+comment1.target=LevelThreeWorld(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LevelOneWorld.\r\n\ Takes\ in\ width\ and\ the\ height\ and\ score\ from\ the\ welcomeworld\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ setup3()
+comment4.params=
+comment4.target=int\ getScore()
+comment5.params=newScore
+comment5.target=void\ setScore(int)
+comment6.params=
+comment6.target=void\ musicStop()
+numComments=7

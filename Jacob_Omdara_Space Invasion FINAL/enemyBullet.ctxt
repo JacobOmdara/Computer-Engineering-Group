@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=enemyBullet
+comment0.text=\r\n\ It\ is\ the\ bullet\ that\ shoots\ from\ an\ alien\ and\ can\ damage\ a\ ship\r\n\ \r\n
+comment1.params=bulletSpeed
+comment1.target=enemyBullet(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=SpaceObject
+comment0.text=\r\n\ The\ spaceobject\ covers\ all\ of\ the\ objects\ that\ are\ meant\ to\ be\ interacted\ with\ by\ the\ player,\ including\ enemies,\ ships\ and\ bullets.\r\n\ \r\n
+numComments=1

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AimedBullet
+comment0.text=\r\n\ This\ is\ the\ bullet\ that\ can\ track\ the\ position\ of\ the\ user\ ship,\ move\ in\ the\ direction\ of\ it\ from\ the\ start.\r\n
+comment1.params=bulletSpeed\ userShip
+comment1.target=AimedBullet(int,\ ship)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

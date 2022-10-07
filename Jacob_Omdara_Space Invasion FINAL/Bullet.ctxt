@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ the\ bullet\ class\ covers\ all\ bullets,\ and\ is\ used\ to\ detect\ collisions\ with\ other\ space\ objects.\r\n
+comment1.params=
+comment1.target=Bullet()
+comment2.params=
+comment2.target=boolean\ actorContact()
+comment3.params=
+comment3.target=void\ hitCheck()
+numComments=4

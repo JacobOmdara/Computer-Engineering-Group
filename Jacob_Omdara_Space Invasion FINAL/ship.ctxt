@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ship
+comment0.text=\r\n\ The\ ship\ that\ the\ user\ uses\ to\ combat\ the\ aliens.\r\n\ \r\n\ \r\n
+comment1.params=speed\ maxCooldown\ level\ bulletSpeed
+comment1.target=ship(int,\ int,\ int,\ int)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ moveShip()
+comment5.params=
+comment5.target=void\ bulletShootShip()
+comment6.params=hp
+comment6.target=int\ hp(int)
+comment7.params=hp
+comment7.target=boolean\ checkDeath(int)
+numComments=8
